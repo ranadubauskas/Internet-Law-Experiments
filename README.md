@@ -12,3 +12,8 @@ Download the Following:
 ```shell
 python -m venv .venv
 ```
+2. Activate the Virtual Environment:
+```shell
+source .venv/bin/activate
+```
+3. Activate the Virtual Environment:
