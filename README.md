@@ -36,7 +36,7 @@ python main.py >> chatgpt/electrician/output.txt
 1. Use JS file data_processing.js & create JSON data variable:
 ```shell
 const data = [
-{
+   {
       "age":33,
       ...
       "dominant_gender":"Man",
